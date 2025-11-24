@@ -75,7 +75,6 @@ Research project revealing distinct molecular pathways and biomarker signatures 
 **Master's in Biotechnology (Genetics)** | *Cairo University* | Sep 2024 – Current
 
 **Bachelor's in Bioinformatics** | *Assiut University* | Sep 2018 – Jul 2022
-- **GPA:** 3.29/4.0
 - **Honors:** Ideal Student 2021/2022
 
 ## 📄 Publications
